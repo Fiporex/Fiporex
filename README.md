@@ -16,7 +16,7 @@
 ---
 
 ### 🛠️ Technical Stack
-* **Languages:** Python, SQL, YAML
+* **Languages:** Python, SQL/(JQL SIEM QUERY LANGUAGE), YAML, XML
 * **Detection:** SigmaHQ, MITRE ATT&CK, EDR/XDR (ESET Inspect)
 * **Infrastructure:** Windows Internals, Sysmon Configuration, Linux (Arch/CachyOS)
 
