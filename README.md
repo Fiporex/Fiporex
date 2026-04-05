@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Filip Michalewicz (Fiporex) 🛡️
 
-<!--
-**Fiporex/Fiporex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SOC Analyst & Detection Engineer** Specializing in bridging the gap between raw telemetry and high-fidelity detection logic.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Current Research & Private Projects
+*Most of my security-related development remains in private repositories due to the nature of the research.*
+
+* [cite_start]**Sigma Rule Translation Pipeline (Sigma_conventer):** A Python-based tool utilizing the **pySigma** library to automate the conversion of generic Sigma (YAML) rules into vendor-specific SIEM XML queries[cite: 114].
+    
+* **SIEM Parser Reverse Engineering (SVParser):** Custom scripts focused on reverse-engineering closed-source SIEM parsers to create standardized YAML mapping pipelines for **Windows Sysmon**, **Security**, and **Linux logs**[cite: 115].
+
+* [cite_start]**MITRE ATT&CK Data Normalization (IdToCategory):** Automated SQL-based mapping of SIEM categories and event IDs to the **MITRE ATT&CK** framework, ensuring consistent data enrichment for detection pipelines[cite: 111].
+
+---
+
+### 🛠️ Technical Stack
+* **Languages:** Python, SQL, YAML
+* [cite_start]**Detection:** SigmaHQ, MITRE ATT&CK, EDR/XDR (ESET Inspect) [cite: 111, 118]
+* **Infrastructure:** Windows Internals, Sysmon Configuration, Linux (Arch/CachyOS) [cite: 153]
+
+---
+
+### 📫 Connect with me
+* [cite_start]**LinkedIn:** [linkedin.com/in/filip-michalewicz-aa0b26201](https://linkedin.com/in/filip-michalewicz-aa0b26201) [cite: 99]
+* **Email:** michalewicz2@gmail.com [cite: 99]
