@@ -11,7 +11,7 @@
     
 * **SIEM Parser Reverse Engineering (SVParser):** Custom scripts focused on reverse-engineering closed-source SIEM parsers to create standardized YAML mapping pipelines for **Windows Sysmon**, **Security**, and **Linux logs**[cite: 115].
 
-* [cite_start]**MITRE ATT&CK Data Normalization (IdToCategory):** Automated SQL-based mapping of SIEM categories and event IDs to the **MITRE ATT&CK** framework, ensuring consistent data enrichment for detection pipelines[cite: 111].
+* **MITRE ATT&CK Data Normalization (IdToCategory):** Automated SQL-based mapping of SIEM categories and event IDs to the **MITRE ATT&CK** framework, ensuring consistent data enrichment for detection pipelines[cite: 111].
 
 ---
 
