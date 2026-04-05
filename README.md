@@ -7,21 +7,21 @@
 ### 🔍 Current Research & Private Projects
 *Most of my security-related development remains in private repositories due to the nature of the research.*
 
-* **Sigma Rule Translation Pipeline (Sigma_conventer):** A Python-based tool utilizing the **pySigma** library to automate the conversion of generic Sigma (YAML) rules into vendor-specific SIEM XML queries[cite: 114].
+* **Sigma Rule Translation Pipeline (Sigma_conventer):** A Python-based tool utilizing the **pySigma** library to automate the conversion of generic Sigma (YAML) rules into vendor-specific SIEM XML queries.
     
-* **SIEM Parser Reverse Engineering (SVParser):** Custom scripts focused on reverse-engineering closed-source SIEM parsers to create standardized YAML mapping pipelines for **Windows Sysmon**, **Security**, and **Linux logs**[cite: 115].
+* **SIEM Parser Reverse Engineering (SVParser):** Custom scripts focused on reverse-engineering closed-source SIEM parsers to create standardized YAML mapping pipelines for **Windows Sysmon**, **Security**, and **Linux logs**.
 
-* **MITRE ATT&CK Data Normalization (IdToCategory):** Automated SQL-based mapping of SIEM categories and event IDs to the **MITRE ATT&CK** framework, ensuring consistent data enrichment for detection pipelines[cite: 111].
+* **MITRE ATT&CK Data Normalization (IdToCategory):** Automated SQL-based mapping of SIEM categories and event IDs to the **MITRE ATT&CK** framework, ensuring consistent data enrichment for detection pipelines.
 
 ---
 
 ### 🛠️ Technical Stack
 * **Languages:** Python, SQL, YAML
-* **Detection:** SigmaHQ, MITRE ATT&CK, EDR/XDR (ESET Inspect) [cite: 111, 118]
-* **Infrastructure:** Windows Internals, Sysmon Configuration, Linux (Arch/CachyOS) [cite: 153]
+* **Detection:** SigmaHQ, MITRE ATT&CK, EDR/XDR (ESET Inspect)
+* **Infrastructure:** Windows Internals, Sysmon Configuration, Linux (Arch/CachyOS)
 
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [linkedin.com/in/filip-michalewicz-aa0b26201](https://linkedin.com/in/filip-michalewicz-aa0b26201) [cite: 99]
-* **Email:** michalewicz2@gmail.com [cite: 99]
+* **LinkedIn:** [linkedin.com/in/filip-michalewicz-aa0b26201](https://linkedin.com/in/filip-michalewicz-aa0b26201)
+* **Email:** michalewicz2@gmail.com
